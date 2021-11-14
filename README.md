@@ -1,16 +1,37 @@
-### Hi there 👋
+Bier-Karsten
+=============
 
-<!--
-**bier-karsten/bier-karsten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer science student, coffee-consumer and beer-lover.**
 
-Here are some ideas to get you started:
+##about me
+###I am currently working at [Weßels Medien](https://wesselsmedien.de/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Backend-developer and also designing different websites and webservices.
+But I also run several companies providing online services used by millions of users.
+                
+----
+### 🚧 my work
+Some projects that I am currently working on:
+
+- Insta zoom
+- [Discordzoom](https://discordzoom.com/)
+- [Thumbnail-Downloader](https://thumbnail-downloader.de/)
+- [Hytale Items](https://hytaleitems.de)
+- [Lostplace Map](https://lostplacemap.com)
+- Leit-Zentrale online
+- Discord pfp
+- [R6-Extraction Ops](https://r6parasiteops.de/)
+
+----
+### 🌱 I am currently learning:
+
+- Python
+- Kubernetes
+- Symfony
+- Ruby
+- Assembly
+- Scala
+
+     
+     
+`Our webservices are being used by millions of users each month and that's why I love what I do.`
