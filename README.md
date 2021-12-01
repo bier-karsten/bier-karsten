@@ -3,8 +3,8 @@ Bier-Karsten
 
 **Computer science student, coffee-consumer and beer-lover.**
 
-##about me
-###I am currently working at [Weßels Medien](https://wesselsmedien.de/)
+## about me
+### I am currently working at [Weßels Medien](https://wesselsmedien.de/)
 
 I am Backend-developer and also designing different websites and webservices.
 But I also run several companies providing online services used by millions of users.
