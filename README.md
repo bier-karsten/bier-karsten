@@ -6,8 +6,8 @@ Bier-Karsten
 ## about me
 ### I am currently working at [Weßels Medien](https://wesselsmedien.de/)
 
-I am Backend-developer and also designing different websites and webservices.
-But I also run several companies providing online services used by millions of users.
+I am a backend-developer and I am also designing different websites and webservices.
+I am running several small businesses providing online services, shops and blogs used by millions of users.
                 
 ----
 ### 🚧 my work
