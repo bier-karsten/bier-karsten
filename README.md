@@ -19,19 +19,23 @@ Some projects that I am currently working on:
 - [Hytale Items](https://hytaleitems.de)
 - [Lostplace Map](https://lostplacemap.com)
 - Leit-Zentrale online
-- Discord pfp
-- [R6-Extraction Ops](https://r6parasiteops.de/)
+- [Discord-Avatar](https://discord-avatar.com)
 
 ----
 ### 🌱 I am currently learning:
 
 - Python
-- Kubernetes
-- Symfony
 - Ruby
 - Assembly
 - Scala
 
-     
+----
+### 🏁🎊 Goals:
+- [x] 100.000 users
+- [x] 1 Million users
+- [x] 10 Million users
+- [x] 25 Million users
+- [x] 50 Million users
+- [ ] 100 Million users
      
 `Our webservices are being used by millions of users each month and that's why I love what I do.`
