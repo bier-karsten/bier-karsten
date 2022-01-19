@@ -16,10 +16,10 @@ Some projects that I am currently working on:
 - Insta zoom
 - [Discordzoom](https://discordzoom.com/)
 - [Thumbnail-Downloader](https://thumbnail-downloader.de/)
-- [Hytale Items](https://hytaleitems.de) > closed BETA
-- [Lostplace Map](https://lostplacemap.com) > closed BETA
-- Leit-Zentrale online > closed BETA
-- [Discord-Avatar](https://discord-avatar.com)
+- [Hytale Items](https://hytaleitems.de) `closed ALPHA`
+- [Lostplace Map](https://lostplacemap.com) `closed BETA`
+- Leit-Zentrale online `closed BETA`
+- [Discord-Avatar](https://discord-avatar.com) `BETA`
 
 ----
 ### 🌱 I am currently learning:
