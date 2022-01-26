@@ -1,13 +1,13 @@
 Bier-Karsten
 =============
 
-**Computer science student, coffee-consumer and beer-lover.**
+**👨🏻‍🎓Computer science, coffee-consumer and beer-lover.**
 
 ## about me
 ### I am currently working at [Weßels Medien](https://wesselsmedien.de/)
 
 I am a backend-developer and I am also designing different websites and webservices.
-I am running several small businesses providing online services, shops and blogs used by millions of users.
+I run several small businesses providing online services, shops and blogs used by millions of users.
                 
 ----
 ### 🚧 my work
@@ -18,7 +18,7 @@ Some projects that I am currently working on:
 - [Thumbnail-Downloader](https://thumbnail-downloader.de/)
 - [Hytale Items](https://hytaleitems.de) `closed ALPHA`
 - [Lostplace Map](https://lostplacemap.com) `closed BETA`
-- Leit-Zentrale online `closed BETA`
+- Leit-Zentrale online `in development`
 - [Discord-Avatar](https://discord-avatar.com) `BETA`
 
 ----
@@ -38,4 +38,4 @@ Some projects that I am currently working on:
 - [x] 50 Million users
 - [ ] 100 Million users
      
-`Our webservices are being used by millions of users each month and that's why I love what I do.`
+`Our webservices are being used by millions of users every month and that's why I love what I do.`
