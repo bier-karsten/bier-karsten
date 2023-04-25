@@ -1,16 +1,25 @@
-### Hi there 👋
+Bier-Karsten
+=============
 
-<!--
-**bier-karsten/bier-karsten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👨🏻‍🎓Computer science, coffee and beer-lover.**
 
-Here are some ideas to get you started:
+I am a backend-developer and I am also a designer of stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+### 🌱 I am currently learning:
+
+- Python
+- Ruby
+- Assembly
+- Scala
+
+----
+### 🏁🎊 Goals:
+- [x] 100.000 users
+- [x] 1 Million users
+- [x] 10 Million users
+- [x] 25 Million users
+- [x] 50 Million users
+- [ ] 100 Million users
+     
+`My work's being appreciated by millions of users every month and that's why I love what I do.`
